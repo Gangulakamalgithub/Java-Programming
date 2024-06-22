@@ -76,7 +76,7 @@ public class VariablePrinter {
         System.out.println("Multiplication ; " + multiplication);
         System.out.println("Division ; " + division);
 
-        
+
 
 
 
